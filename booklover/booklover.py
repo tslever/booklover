@@ -3,7 +3,7 @@ Module for class BookLover
 '''
 
 import pandas as pd
-from BookAlreadyExistsInBookListException import BookAlreadyExistsInBookListException
+from booklover.BookAlreadyExistsInBookListException import BookAlreadyExistsInBookListException
 
 class BookLover:
     '''
