@@ -5,7 +5,7 @@ setup(
     version='0.1.0',
     author='Tom Lever',
     author_email='tsl2b@virginia.edu',
-    py_modules=['BookAlreadyExistsInBookListException', 'booklover', 'booklover_test'],
+    packages=[],
     url='https://github.com/tslever/booklover',
     license='MIT License',
     description='A Python package offering class BookLover',
