@@ -3,7 +3,7 @@ Module for class BookLoverTestSuite, which tests the methods of a BookLover
 '''
 
 import unittest
-from booklover.booklover import *
+from booklover import *
 
 class BookLoverTestSuite(unittest.TestCase):
     '''
